@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\48571\source\repos\AllCombinationsVector\main.cpp(73,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\48571\source\repos\AllCombinationsVector\main.cpp(73,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\48571\source\repos\AllCombinationsVector\main.cpp(109,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AllCombinationsVector.vcxproj -> C:\Users\48571\source\repos\AllCombinationsVector\x64\Debug\AllCombinationsVector.exe
